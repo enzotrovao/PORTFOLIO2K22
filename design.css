@@ -38,32 +38,12 @@ body{
 	float: left;
 }
 
-#area_lat{
-	width: 240px;
-	float: right;
-}
-
 .postagem{
 	padding: 20px;
 	
 	background: white;
 	text-align: left;
 	font-style: italic;
-}
-
-
-.post_lat{
-	padding: 10px;
-	margin-bottom: 20px;
-	font-size: 0.8em;
-	text-align: justify;
-	padding: 8px;
-	border-bottom: 5px solid #283618;
-	color: black;
-}
-
-.cont_lat{
-	color: black;
 }
 
 #rodapé{
